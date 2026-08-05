@@ -1,0 +1,2 @@
+# Channel_Aware_Experts_Routing_and_Statistical_Reconstruction_Pretraining
+Experiment codes for the paper &lt;Learning_EEG_Representations_via_Channel_Aware_Experts_Routing_and_Statistical_Reconstruction_Pretraining>

@@ -1,0 +1,51 @@
+﻿# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE/editor files
+.idea/
+.vscode/
+*.iml
+
+# Experiment outputs and logs
+logs/
+log/
+log-pretrain/
+refine-logs/
+results/
+lightning_logs/
+wandb/
+tmp/
+
+# Large model/data artifacts
+*.ckpt
+*.pt
+*.pth
+*.npz
+*.npy
+*.pkl
+*.pickle
+*.h5
+*.hdf5
+*.mat
+*.edf
+*.csv
+*.tsv
+
+# Local/private paper materials
+paper/
+reject_paper/
+
+# OS files
+.DS_Store
+Thumbs.db
